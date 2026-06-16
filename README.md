@@ -16,7 +16,9 @@ Spielen bis drei gleiche Zeichen horizontal, vertikal oder diagonal zueinander s
 
 Verwendet habe ich;
 C++
+
 QT Creator
+
 
 Das Spiel startet man, indem man die CMakeLists und den Code in QT Creator öffnet und auf den Run-Button klickt.
 
