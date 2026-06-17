@@ -24,8 +24,4 @@ QT Creator
 
 
 
-
-
-Das Spiel startet man, indem man die CMakeLists und den Code in QT Creator öffnet und auf den Run-Button klickt.
-
 <img width="286" height="990" alt="image" src="https://github.com/user-attachments/assets/0a5a68ed-f2f5-4991-b6c0-7fc37c861f92" />
